@@ -1,0 +1,9 @@
+[0517/191139.369:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0517/191139.379:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0517/200156.172:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0517/200156.176:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0517/200247.372:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0517/200247.379:ERROR:file_io.cc(89)] ReadExactly: expected 40, observed 0
+[0518/105829.985:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0518/105829.991:ERROR:exception_snapshot_win.cc(88)] thread ID 211400 not found in process
+[0518/105829.991:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
