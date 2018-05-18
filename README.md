@@ -1,7 +1,8 @@
 
 # 버전 0.2이 새로 나왔습니다!!
+## 자세한 사용정보는 파일중 PPT파일을 
 ==========>>>> 
-# [이전 버전 보기](https://github.com/itziana/SuperDeal).
+# [이전 버전 보기 GO!](https://github.com/itziana/SuperDeal).
 
 # 버전 0.2 변경사항
 > 1) -파이썬이 설치되지 않은 컴퓨터에서도 EXE 실행파일로 사용이 가능-
